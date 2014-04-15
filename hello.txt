@@ -1,10 +1,15 @@
 Hello there!
 I am adding something new here.
-<<<<<<< HEAD
 
 My favorite color is purple. 
-=======
 I'm also adding something new. -Ross
 
 Message from Tamara! :)
->>>>>>> FETCH_HEAD
+
+Kevin was here.
+
+Guess who? I have pink hair :)
+
+^^ is it… Ross?! I give up…
+
+I"m posting something fast!!!
