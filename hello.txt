@@ -1,4 +1,10 @@
 Hello there!
 I am adding something new here.
+<<<<<<< HEAD
 
 My favorite color is purple. 
+=======
+I'm also adding something new. -Ross
+
+Message from Tamara! :)
+>>>>>>> FETCH_HEAD
