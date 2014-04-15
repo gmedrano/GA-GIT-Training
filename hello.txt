@@ -1,2 +1,4 @@
 Hello there!
 I am adding something new here.
+
+My favorite color is purple. 
